@@ -1,2 +1,2 @@
-# linkedin-privacy-policy
-Privacy policy for LinkedIn job search automation
+# Privacy-Policy-N8N-Job-Search-Application
+Privacy policy for job search automation
